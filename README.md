@@ -8,7 +8,7 @@ Este repositório reúne scripts e arquivos para explorar a análise de transaç
 ### 3 - Exportação dos dados tratados para  CSV conforme passo 8 do arquivo Tratamento_Dados.ipynb  
 **  Lembrando que o passo 8 só deve ser executado caso todos os 7 primeiros não geraram erro.
 ### 4 - Importação do .csv tratado para o banco de dados Postgres conforme arquivo: Importacao_Dados.sql
-### 5 - Análise exploratória dos dados.
+### 5 - Análise exploratória dos dados conforme arquivo: analise_exploratoria.sql
 
 
 
